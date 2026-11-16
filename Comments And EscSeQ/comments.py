@@ -7,3 +7,4 @@
  - It is also used to generate documentation for the code.
  """
 
+print("Hello, World!") # This is also a single line comment in Python
